@@ -1,0 +1,37 @@
+#EXTM3U
+
+# —— 央视分组 ——
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央视",CCTV4K
+http://59.172.175.148:8686/rtp/239.69.1.111:10304
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央视",CCTV16 4K
+http://59.172.175.148:8686/rtp/239.69.1.12:9712
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央视",CCTV1HD
+http://59.172.175.148:8686/rtp/239.254.96.96:8550
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央视",CGTNHD
+http://59.172.175.148:8686/rtp/239.254.96.175:9124
+
+# —— 卫视分组 ——
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="卫视",北京卫视4K
+http://59.172.175.148:8686/rtp/239.69.2.22:11286
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="卫视",湖南卫视4K
+http://59.172.175.148:8686/rtp/239.69.1.13:9718
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="卫视",浙江卫视HD
+http://59.172.175.148:8686/rtp/239.254.96.143:8932
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="卫视",湖北卫视HD
+http://59.172.175.148:8686/rtp/239.254.96.115:8664
+
+# —— 地方分组 ——
+#EXTINF:-1 tvg-id="1079" tvg-name="湖北综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方",湖北综合HD
+http://59.172.175.148:8686/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="" tvg-name="武汉综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方",武汉综合HD
+http://59.172.175.148:8686/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="" tvg-name="蔡甸综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方",蔡甸综合HD
+http://59.172.175.148:8686/rtp/239.69.1.245:11112
+
+# —— 网络分组 ——
+#EXTINF:-1 tvg-id="1277" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="网络",欢笑剧场4K
+http://59.172.175.148:8686/rtp/239.69.2.5:11184
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="网络",CHC动作电影HD
+http://59.172.175.148:8686/rtp/239.69.1.242:11094
+#EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="网络",游戏风云HD
+http://59.172.175.148:8686/rtp/239.69.2.8:11202
