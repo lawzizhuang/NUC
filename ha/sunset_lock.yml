@@ -1,0 +1,17 @@
+alias: "回家模式：日落后外开锁开灯"
+description: "通过监听门锁开锁事件触发"
+trigger:
+  - platform: state
+    entity_id: event.loock_cn_1028082691_t1_lock_opened_e_2_1 # 截图中的开锁事件实体
+condition:
+  - condition: sun
+    after: sunset # 只有在日落后执行
+  - condition: template
+    # 逻辑判断：仅当事件包含指纹、密码等外部开锁类型时触发
+    # 你可以在触发后查看该实体的 event_type 属性来进一步精修
+    value_template: "{{ trigger.to_state.attributes.event_type is not none }}"
+action:
+  - service: switch.turn_on
+    target:
+      entity_id: switch.chuangmi_cn_584080244_212a01_on_p_2_1 # 截图中的台灯实体
+mode: single
