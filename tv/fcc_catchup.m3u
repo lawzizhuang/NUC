@@ -1,0 +1,269 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV1&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.96:8550?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV2&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.102:10250?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV3&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.122:10370?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV4&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.138:10466?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV5&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.123:10376?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV6&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.124:10382?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV7&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.103:10256?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV8&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.125:10388?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV9&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.104:10262?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV10&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.105:10268?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV11&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.154:10560?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV12&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.106:10274?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV13&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.161:9040?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV14&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.107:10280?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV15&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.155:10566?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV16&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.247:11124?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV17&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.152:10548?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV5+&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.234:9484?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.111:10304?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV16&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.249:11136?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV4欧洲&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.231:11028?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CCTV4美洲&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.232:11034?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN纪录&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.233:11040?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN西班牙语&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.234:11046?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN法语&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.235:11052?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN阿拉伯语&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.221:10968?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN俄语&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.222:10974?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CGTN&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.175:9124?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.115:8664?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖南卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.34:11358?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=浙江卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.35:11364?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=江苏卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.36:11370?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=东方卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.37:11376?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=山东卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.38:11382?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=四川卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.39:11388?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=北京卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.22:11286?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=广东卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.27:11316?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=深圳卫视4K&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.28:11322?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖南卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.139:8908?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=浙江卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.143:8932?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=江苏卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.144:8938?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=东方卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.142:8926?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=北京卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.141:8920?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=广东卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.140:8914?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=深圳卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.137:8896?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=黑龙江卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.138:8902?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=天津卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.68:10048?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=山东卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.69:10054?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=安徽卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.70:10060?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=辽宁卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.71:10066?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=东南卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.108:10286?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=江西卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.126:10394?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=重庆卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.149:10530?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=贵州卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.150:10536?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=河南卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.168:10644?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=四川卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.169:10650?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=河北卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.157:10578?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=海南卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.151:10542?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=广西卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.191:10788?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=吉林卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.212:10914?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=山西卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.93:8532?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=云南卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.25:11304?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=西藏卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.31:11340?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=内蒙古卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.41:8220?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=新疆卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.30:11334?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=兵团卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.32:11346?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=青海卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.24:11298?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=陕西卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.186:9196?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=甘肃卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.23:11292?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=宁夏卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.33:11352?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=三沙卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.171:10662?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=厦门卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.127:10400?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=中国教育1&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.110:10298?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=中国教育2&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.183:10734?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=中国教育4&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.29:11328?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北经济&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.41:9886?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北综合&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.42:9892?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北垄上&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.43:9898?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北公共·新闻&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.40:9880?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北影视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.204:10866?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北教育&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.206:10878?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=湖北生活&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.205:10872?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武汉新闻综合&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.145:10506?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武汉电视剧&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.146:10512?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武汉科技生活&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.251:11148?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武汉文体&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.147:10518?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武汉教育&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.60:9994?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=阳新综合&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.34:9844?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=房县综合&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.192:10794?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=蔡甸综合&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.245:11112?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=卡酷动画&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.193:10800?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=金鹰卡通&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.248:11130?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=金鹰纪实&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.109:10292?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=山东教育卫视&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.228:11010?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=环球奇观&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.192:9232?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=国学&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.194:9244?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=财富天下&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.254.96.210:9340?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=怀旧剧场&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.89:10174?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=风云音乐&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.90:10180?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=快乐垂钓&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.142:10488?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=先锋乒羽&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.143:10494?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=风云足球&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.81:10126?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=汽摩&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.84:10144?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=老故事&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.85:10150?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=兵器科技&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.79:10114?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=茶频道&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.144:10500?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CHC影迷电影&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.241:11088?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CHC动作电影&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.242:11094?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=CHC家庭影院&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.243:11100?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=四海钓鱼&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.244:11106?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=世界地理&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.91:10186?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=高尔夫网球&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.83:10138?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=梨园&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.33:9838?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=文物宝库&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.46:9916?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=武术世界&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.47:9922?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=第一剧场&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.74:10084?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=央视台球&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.98:10224?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=电视指南&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.87:10162?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=新动漫&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.187:10764?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=女性时尚&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.86:10156?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=书画&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.1.189:10776?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=中国交通&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.3:11172?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=游戏风云&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.8:11202?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=动漫秀场&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.6:11190?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=法制天地&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.10:11214?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=生活时尚&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.11:11220?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=都市剧场&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.4:11178?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=欢笑剧场&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.5:11184?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=乐游&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.12:11226?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=东方财经&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.9:11208?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=金色学堂&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.13:11232?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=中央新影中学生&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.17:11256?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=凤凰卫视资讯&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.19:11268?fcc=121.60.255.120:15970
+#EXTINF:-1 catchup="default" catchup-source="http://192.168.31.184:59359/catchup?channel=凤凰卫视中文&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",
+http://192.168.31.80:5140/rtp/239.69.2.20:11274?fcc=121.60.255.120:15970
