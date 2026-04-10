@@ -300,6 +300,27 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+  - name: 澳洲节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Australia.png
+    include-all: true
+    filter: (?i)KR|Aus|aus
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 法国节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/France.png
+    include-all: true
+    filter: (?i)KR|France
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 大俄节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Russia.png
+    include-all: true
+    filter: (?i)KR|Rus|rus
+    type: url-test
+    interval: 300
+    tolerance: 50
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
