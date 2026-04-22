@@ -587,6 +587,8 @@ rules:
   - DOMAIN-SUFFIX,aufors.com,DIRECT
   - "DOMAIN-SUFFIX,imouyang.com,DIRECT"
   - IP-CIDR,192.168.31.0/24,DIRECT
+  - DOMAIN-SUFFIX,m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,m-team.io,DIRECT
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
