@@ -9,18 +9,17 @@ dns:
   respect-rules: false
   fake-ip-filter:
     - geosite:cn
-  # 国内 DNS (直连解析，不走代理)
+  # 国内 DNS (直连解析，Fake-IP 模式下无需国外 DNS 防污染)
   nameserver:
-    - 114.114.114.114
-    - 119.29.29.29
     - 223.5.5.5
-  # 国外 DNS (DoH，走代理防污染)
+    - 119.29.29.29
+  # 国内 DoH fallback (备用，无代理依赖，100% 可达)
   fallback:
-    - https://dns.cloudflare.com/dns-query
-    - https://dns.google/dns-query
-  # 代理节点域名专用的直连 DNS (避免 DNS 死锁)
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  # 代理节点域名专用直连 DNS
   proxy-server-nameserver:
-    - 114.114.114.114
+    - 223.5.5.5
     - 119.29.29.29
 
 # ───────── 协议嗅探 ─────────
