@@ -22,6 +22,11 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
 
+# ───────── 连接优化 ─────────
+keep-alive-interval: 30
+unified-delay: true
+global-client-fingerprint: chrome
+
 # ───────── 协议嗅探 ─────────
 sniffer:
   enable: true
