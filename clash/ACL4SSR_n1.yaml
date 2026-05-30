@@ -9,6 +9,8 @@ dns:
   respect-rules: false
   fake-ip-filter:
     - geosite:cn
+    - connectivitycheck.gstatic.com
+    - connectivitycheck.google.com
   # 国内 DNS (直连解析，Fake-IP 模式下无需国外 DNS 防污染)
   nameserver:
     - 223.5.5.5
