@@ -1,3 +1,51 @@
+# ───────── DNS 配置 ─────────
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  respect-rules: false
+  fake-ip-filter:
+    - geosite:cn
+    - connectivitycheck.gstatic.com
+    - connectivitycheck.google.com
+    - "+.argotunnel.com"
+    - "+.cloudflare.com"
+    - "+.cloudflare.net"
+    - "+.aufors.com"
+    - "+.imouyang.com"
+    - "+.sids.eu.org"
+  # 国内 DNS (直连解析，Fake-IP 模式下无需国外 DNS 防污染)
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  # 国内 DoH fallback (备用，无代理依赖，100% 可达)
+  fallback:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  # 代理节点域名专用直连 DNS
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+
+# ───────── 连接优化 ─────────
+keep-alive-interval: 30
+unified-delay: true
+global-client-fingerprint: chrome
+
+# ───────── 协议嗅探 ─────────
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  sniff:
+    TLS:
+      ports: [443, 8443]
+    HTTP:
+      ports: [80, 8080-8880]
+  force-domain:
+    - '+.netflix.com'
+    - '+.nflxvideo.net'
+
 proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
@@ -586,6 +634,7 @@ rules:
   - DOMAIN-SUFFIX,cloudflare.net,DIRECT
   - DOMAIN-SUFFIX,aufors.com,DIRECT
   - "DOMAIN-SUFFIX,imouyang.com,DIRECT"
+  - DOMAIN-SUFFIX,sids.eu.org,DIRECT
   - IP-CIDR,192.168.31.0/24,DIRECT
   - DOMAIN-SUFFIX,m-team.cc,DIRECT
   - DOMAIN-SUFFIX,m-team.io,DIRECT
